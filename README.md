@@ -26,15 +26,16 @@ THE UNIT REPLICATES BY MEANS OF THE TRASH MAGIC WEB!
 
 REPLICATE THE MEDIA AS YOU REPLICATE THE UNIT!
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Unit_relations_in_the_new_SI.svg)
-
-# I AM THE UNIT!
 
 ## [READ THE BOOK OF GEOMETRON](https://raw.githubusercontent.com/LafeLabs/bookofgeometron/main/main-bigpaper.pdf)
 
 ![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/qrcode.png)
 ![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/qrcode-page.png)
 ![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-6inch.svg)
+![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-6inch-url.svg)
 ![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-6inchx6.svg)
+![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-6inchx6-url.svg)
 ![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-15cm.svg)
+![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-15cm-url.svg)
 ![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-15cmx8.svg)
+![](https://raw.githubusercontent.com/LafeLabs/unit/main/images/unit-15cmx8-url.svg)
